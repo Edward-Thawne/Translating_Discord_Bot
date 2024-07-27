@@ -6,7 +6,7 @@ import asyncio
 import os
 import googletrans 
 from discord import Embed
-from keep_alive.py import keep_alive.py
+
 
 translator = googletrans.Translator()
 
